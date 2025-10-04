@@ -28,3 +28,16 @@ This project analyzes customer churn data for a telecom company to identify key 
   - Microsoft Excel — For visualization and dashboard design
 
   - Power Query & Pivot Charts — For data cleaning and analysis
+
+
+👨‍💻 About Me
+
+Hi, I'm Mostafa Alaa, a passionate Data Analyst from Alexandria, Egypt.
+I enjoy turning raw data into meaningful insights using tools like Excel, Power Query, SQL, and Python.
+My goal is to help businesses make smarter, data-driven decisions.
+
+🔗 You can connect with me on:
+
+[LinkedIn](https://www.linkedin.com/in/mostafa-alaa-eldin/)
+
+[GitHub](https://github.com/eldesha19)
